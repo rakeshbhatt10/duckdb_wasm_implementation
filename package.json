@@ -22,6 +22,8 @@
   },
   "dependencies": {
     "@duckdb/duckdb-wasm": "^1.14.3",
+    "arquero": "^4.8.8",
+    "knex": "^2.0.0",
     "leveldown": "^6.1.1",
     "levelup": "^5.1.1",
     "web-worker": "^1.2.0"
